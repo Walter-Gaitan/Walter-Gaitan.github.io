@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Walter Gaitan
-- 👀 I’m interested in becoming a Data Science professional
+- 👀 I’m interested in becoming a Cloud Computing professional
 - 🌱 I’m currently learning Python for Data Science, R and SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to Cloud, Docker, Kubernetis and Python
 - 📫 How to reach me walterg.steven@gmail.com
 
 <!---
